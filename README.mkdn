@@ -1,7 +1,7 @@
 Getting Started
 ---------------
 
-To get started with Android, you'll need to get familiar with [Git and Repo] (http://source.android.com/download/using-repo).
+To get started with Android, you'll need to get familiar with [Git and Repo] (http://source.android.com/source/version-control.html).
 
 To initialize your local repository using the aospX trees, use a command like this:
 
