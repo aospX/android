@@ -6,7 +6,7 @@
   <remote fetch="git://git.linaro.org/" name="linaro"/>
   <remote fetch="git://android.git.linaro.org/" name="linaro-android"/>
   
-  <default remote="aosp" revision="ics-plus-aosp" sync-j="4"/>
+  <default remote="aosp" revision="ics-plus-aosp" sync-j="4" sync-c="true"/>
   
   <project groups="name:CyanogenMod/android_external_bash,path:external/bash" name="CyanogenMod/android_external_bash" path="external/bash" remote="github" revision="f4b417c62a4f272c4cf9a074d0f7a3a97201f9db"/>
   <project groups="name:CyanogenMod/android_external_dnsmasq,path:external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" path="external/dnsmasq" remote="github" revision="8213dff898cef27642b6eaa75eab079cb08eff1b"/>
